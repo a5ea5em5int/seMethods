@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7a7710d-66e3-44b4-8b53-8dd92478216f" name="Changes" comment="java version changes in main.yml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="f7a7710d-66e3-44b4-8b53-8dd92478216f" name="Changes" comment="readme change with licesence and release" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -112,7 +114,28 @@
       <option name="project" value="LOCAL" />
       <updated>1672733338840</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="readme change with licesence and release">
+      <created>1672733942631</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672733942631</updated>
+    </task>
+    <task id="LOCAL-00006" summary="readme change with licesence and release">
+      <created>1672734059752</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672734059752</updated>
+    </task>
+    <task id="LOCAL-00007" summary="readme change with licesence and release">
+      <created>1672734093349</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672734093349</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +166,7 @@
     <MESSAGE value="pom.xml and dockerfile have been updated" />
     <MESSAGE value="readme change with badge" />
     <MESSAGE value="java version changes in main.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="java version changes in main.yml" />
+    <MESSAGE value="readme change with licesence and release" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme change with licesence and release" />
   </component>
 </project>
