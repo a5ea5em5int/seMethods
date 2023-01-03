@@ -1,0 +1,1 @@
+![workflow](https://github.com/a5ea5em5int/seMethods/actions/workflows/main.yml/badge.svg)
